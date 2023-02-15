@@ -1,1 +1,1 @@
-# PLSR_transferability_evaluation
+# PLSR transferability evaluation
